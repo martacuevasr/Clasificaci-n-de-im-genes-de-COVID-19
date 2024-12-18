@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{2}{section.2}%
+\contentsline {section}{\numberline {3}Configuración Inicial}{2}{section.3}%
+\contentsline {section}{\numberline {4}Modelo CNN Simple con Cuatro Clases}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Descripción del Modelo}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Resultados y Análisis}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Modelo CNN con Dropout y Early Stopping}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Descripción del Modelo}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Resultados y Análisis}{4}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Modificación del modelo y evaluación de desempeño}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Cambios implementados}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Resultados y Análisis}{6}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Análisis del Modelo con MobileNetV2 Preentrenado}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Modificaciones Realizadas}{6}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Resultados Obtenidos}{7}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Análisis con Modelo Reducido a Dos Clases}{7}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Modificaciones Realizadas}{7}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Resultados Obtenidos}{8}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Análisis de Resultados}{10}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Discusión y Conclusiones}{11}{section.9}%
