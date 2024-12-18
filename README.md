@@ -35,5 +35,5 @@ Se utilizó el conjunto de datos público **COVID-19 Radiography Dataset**, disp
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/Clasificacion-COVID19.git
+git clone https://github.com/martacuevasr/Clasificacion-de-imagenes-de-COVID-19.git
 cd Clasificacion-COVID19
